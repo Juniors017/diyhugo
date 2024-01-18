@@ -1,0 +1,4 @@
+theme = "diyhugo"
+languageCode = "en-us"
+baseurl = "http://example.com/"
+title = "diyhugo"
